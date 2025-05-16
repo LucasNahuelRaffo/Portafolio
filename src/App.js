@@ -41,7 +41,7 @@ export default function Portfolio() {
             "juego educativo en el que los usuarios deben adivinar un colectivo con base en ciertas pistas. Tecnologías: JavaScript puro.",
           tags: ["React", "Redux", "Firebase"],
           image: imagen2,
-          link: "#",
+          link: "https://lucasnahuelraffo.github.io/bondi-fun/",
         },
         {
           id: 3,
