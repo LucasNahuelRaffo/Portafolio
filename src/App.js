@@ -50,7 +50,7 @@ export default function Portfolio() {
             "Pokédex Web App es una aplicación web interactiva construida con React que consume datos en tiempo real desde la PokéAPI, una API pública de Pokémon..",
           tags: ["React Native", "GraphQL", "AWS"],
           image: imagen3,
-          link: "#",
+          link: "https://lucasnahuelraffo.github.io/Pokedex-api/",
         },
       ])
       setLoading(false)

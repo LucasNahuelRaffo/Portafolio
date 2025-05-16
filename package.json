@@ -2,7 +2,7 @@
   "name": "portafolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LucasNahuelRaffo.github.io/portafolio",
+  "homepage": "https://LucasNahuelRaffo.github.io/Portafolio",
   "dependencies": {
     "@tailwindcss/cli": "^4.1.6",
     "@tailwindcss/postcss": "^4.1.6",
